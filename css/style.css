@@ -137,6 +137,7 @@ ul {
     align-items: flex-end;
     justify-content: flex-end;
     background: url(../img/item-fon.png) no-repeat #6408f1;
+    background-size: cover;
     cursor: pointer;
 }
 .item-title {
@@ -153,4 +154,47 @@ ul {
 .list-item:hover .item-title,
 .list-item:focus .item-title {
     transform: scale(1.1)
+}
+
+.list-item--1 {
+    background-image: url("../img/comic20/Макс\ перемотка\ времени.jpg");
+}
+
+.list-item--2 {
+    background-image: url("../img/vini/vini2.png");
+}
+
+.list-item--3 {
+    background-image: url("../img/comic5/img/4.gif");
+}
+
+.list-item--4 {
+    background-image: url("../img/comic14/foto2.jpg");
+}
+
+.list-item--5 {
+    background-image: url("../img/my-comic/6.jpg");
+}
+.list-item--6 {
+    background-image: url("../img/comic9/ob.jpg");
+}
+
+.list-item--7 {
+    background-image: url("../img/simsons/Comic1/1.jpg");
+}
+
+.list-item--8 {
+    background-image: url("../img/simsons/Comic2/1.jpg");
+}
+
+.list-item--9 {
+    background-image: url("../img/simsons/Comic3/1.jpg");
+}
+
+.list-item--10 {
+    background-image: url("../img/simsons/Comic5/1.jpg");
+}
+
+.list-item--11 {
+    background-image: url("../img/simsons/Comic6/1.jpg");
 }
