@@ -250,3 +250,6 @@ ul {
 .list-item--24 {
     background-image: url("../img/comic15/6.png");
 }
+.hide {
+    display: none;
+}
